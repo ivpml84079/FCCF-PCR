@@ -1,5 +1,5 @@
 # FCCF-PCR
-Feature-Consistent Coplane-Pair Correspondence- and Fusion-Based Point Cloud Registration (2023) by  Kuo-Liang Chung, Pei-Hsuan Hsieh, and Chia-Chi Hsu.  
+Feature-Consistent Coplane-Pair Correspondence- and Fusion-Based Point Cloud Registration (2023) by  Kuo-Liang Chung, Chia-Chi Hsu, and Pei-Hsuan Hsieh.  
 
 <div align=center>
 <img src="https://github.com/chris281293/FCCF-PCR/blob/main/Fig/office_result.png">
