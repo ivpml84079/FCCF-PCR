@@ -2,7 +2,7 @@
 Feature-Consistent Coplane-Pair Correspondence- and Fusion-Based Point Cloud Registration (2023) by  Kuo-Liang Chung, Chia-Chi Hsu, and Pei-Hsuan Hsieh.  
 
 <div align=center>
-<img src="https://github.com/chris281293/FCCF-PCR/blob/main/Fig/office_result.png">
+<img src="https://github.com/ivpml84079/FCCF-PCR/blob/main/Fig/office_result.png">
 </div>
 
 The left figure is the testing set "Office" selected from the [ETH](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration) dataset, and the right one is the registration result using our method.
